@@ -1,0 +1,26 @@
+Processing image: object_3.jpg
+Detected 2 objects.
+ClassID: boat (9)
+Confidence: 0.96
+Bounding Box: Left=176.51, Top=162.75, Right=467.53, Bottom=256.27
+Width: 291.02, Height: 93.52
+Area: 27214.51
+Center: (322.02, 209.51)
+----------------------------------------
+ClassID: boat (9)
+Confidence: 0.88
+Bounding Box: Left=82.21, Top=175.22, Right=253.42, Bottom=312.38
+Width: 171.20, Height: 137.16
+Area: 23481.65
+Center: (167.82, 243.80)
+----------------------------------------
+Processed object_3.jpg with 2 detections.
+Processing image: object_4.jpg
+Detected 1 objects.
+ClassID: bird (16)
+Confidence: 0.97
+Bounding Box: Left=58.96, Top=63.20, Right=413.09, Bottom=333.00
+Width: 354.13, Height: 269.80
+Area: 95544.67
+Center: (236.02, 198.10)
+
